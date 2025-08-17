@@ -1,1 +1,1 @@
-https://img.shields.io/endpoint?url=https%3A%2F%2Fstaging-01.workweave.ai%2Fapi%2Fuser%2Fbadge%2Forg_346K4NKzjZ4SfEIZnGbZSHTW%2Facc_kz7Eyf1vB9iXCVJuqrYANEE2&cacheSeconds=3600
+[![Weave Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fstaging-01.workweave.ai%2Fapi%2Fuser%2Fbadge%2Forg_346K4NKzjZ4SfEIZnGbZSHTW%2Facc_kz7Eyf1vB9iXCVJuqrYANEE2&cacheSeconds=3600)](https://staging-01.workweave.ai/reports/user/org_346K4NKzjZ4SfEIZnGbZSHTW/acc_kz7Eyf1vB9iXCVJuqrYANEE2)
